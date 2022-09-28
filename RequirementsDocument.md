@@ -151,7 +151,7 @@ These is the grading rubric that we will use to evaluate your document.
 | 20 | Is your use case model complete? Are all major use cases included in the document? |
 | 8 | Has the team provided an appropriate swim-lane diagram for the scenario where faculty reviews a student’s application? |
 | 10 |  Are the User Interface Requirements given with some detail? Are there some sketches, mockups?  |
-|   
+| | |  
 |   | **Clarity** |
 | 4 | Is the document carefully written, without typos and grammatical errors? |
 | 2 | Is each part of the document in agreement with all other parts? |
